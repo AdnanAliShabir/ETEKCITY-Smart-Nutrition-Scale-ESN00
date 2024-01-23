@@ -1,4 +1,4 @@
-# ETEKCITY-Smart-Nutrition-Scale-ESN00-
+# ETEKCITY-Smart-Nutrition-Scale-ESN00
 ETEKCITY smart nutrition scale protocol reverse engneering
 
 In the iOS app, we have successfully implemented the functionality to read weight from the Etekcity Smart Scale. The WeightScaleManager class handles the BLE communication, and the data packets follow the structure outlined in the protocol section.
