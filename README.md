@@ -28,8 +28,14 @@ This section provides information on the researched BLE protocol:
 > Service: 00001800-0000-1000-8000-00805f9b34fb
 >> Characteristic: 00002a00-0000-1000-8000-00805f9b34fb [READ]
 >> Characteristic: 00002a01-0000-1000-8000-00805f9b34fb [READ]
+```
+
+## Protocol
+
+All packets have this structure
 
 ### Packet
 
 ![](https://kroki.io/packetdiag/svg/eNorSEzOTi1JyUxMV6jmUlAw0DW2UvBITUxJLbJWQAL6-grO-XnFJYl5JVYKBhVpqalpyQaJRkAdJlYKIZUFqQrRRfkliSWptkbmBrHWEB0BYLPB0kCFplYKPql56SUZaEqBCl0SSxKBkkA5oDotCDc6JzXP1jTWGtkJIAmwCmcPbwwLIY7MSE3OLi7N5arlAgALMjve)
+
 
