@@ -30,7 +30,6 @@ All packets have this structure
 
 ![](https://kroki.io/packetdiag/svg/eNorSEzOTi1JyUxMV6jmUlAw0DW2UvBITUxJLbJWQAL6-grO-XnFJYl5JVYKBhVpqalpyQaJRkAdJlYKIZUFqQrRRfkliSWptkbmBrHWEB0BYLPB0kCFplYKPql56SUZaEqBCl0SSxKBkkA5oDotCDc6JzXP1jTWGtkJIAmwCmcPbwwLIY7MSE3OLi7N5arlAgALMjve)
 
-
 Inspired by
-This project was inspired by the work in the metekcity (https://github.com/hertzg/metekcity/tree/master) repository. Special thanks to the original contributors for laying the foundation.
+This project was inspired by the work in the  [metekcity](https://github.com/hertzg/metekcity/tree/master) repository. Special thanks to the original contributors for laying the foundation.
 
